@@ -21,10 +21,6 @@ import fi.foyt.foursquare.api.entities.VenuesSearchResult;
  * @author rmangi
  *
  */
-/**
- * @author Sebastian
- *
- */
 public class BasicExample {
 
 	  public static void main(String[] args) {
